@@ -42,5 +42,5 @@ def load_data():
     return df_train, df_test
 
 
-if __name__ == "main":
+if __name__ == "__main__":
     load_data()
